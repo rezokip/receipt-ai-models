@@ -1,7 +1,7 @@
 {
   "model": {
-    "url": "https://github.com/rezokip/receipt-ai-models/releases/download/1/qwen.gguf",
-    "sha256": "dcd819ff094852c38faba6873d8ff0c9d51eadb2844539e52042ae5d647bbfdb",
-    "size": 1066227232
+    "url": "https://github.com/rezokip/receipt-ai-models/releases/download/1b/receipt-ai.gguf",
+    "sha256": "aaf42c8b7c3cab2bf3d69c355048d4a0ee9973d48f16c731c0520ee914699223",
+    "size": 1280835840
   }
 }
